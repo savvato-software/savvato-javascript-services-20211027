@@ -1,5 +1,9 @@
 # SavvatoJavascriptServices
 
+A collection of Javascript services useful in code that Savvato (and perhaps others) writes.
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
 ## Development server
